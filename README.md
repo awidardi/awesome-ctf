@@ -340,4 +340,4 @@ Check solve section for steganography.
 
 ### LICENSE
 
-CC0 :)
+CC0 :))
